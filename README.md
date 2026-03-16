@@ -68,17 +68,6 @@ Calculation:
 Open circuit characteristics:
 
 ![alt text](<WhatsApp Image 2026-03-16 at 10.12.05.jpeg>)
-<<<<<<< HEAD
-  ![alt text](image.png)
-  ![alt text](image-1.png)
-  ![alt text](image-2.png)
-  
-Load Characteristics:
- ![alt text](<WhatsApp Image 2026-03-16 at 10.12.05 (1)-1.jpeg>)
- ![alt text](image-3.png)
- ![alt text](image-4.png)
- ![alt text](image-5.png)
-=======
 
 ![alt text](<Screenshot 2026-03-16 190423.png>)
 
@@ -94,7 +83,7 @@ Load Characteristics:
 ![alt text](<Screenshot 2026-03-16 185845.png>)
 
 ![alt text](image-8.png)
->>>>>>> b068488 (Update README and add images)
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
